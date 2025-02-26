@@ -26,12 +26,12 @@ To set up and run this project locally, follow these steps:
 
 1. **Clone the Repository**: First, clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/bitmapers/utxo-management.git
+   git clone https://github.com/g0drlc/btc-UTXO-management.git
    ```
 
 2. **Install Dependencies**: Navigate into your project directory and install the required dependencies:
    ```bash
-   cd utxo-management
+   cd btc-UTXO-management
    npm install
    ```
 
